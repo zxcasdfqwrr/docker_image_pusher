@@ -1,2 +1,2 @@
 prom/alertmanager-linux-arm64:v0.27.0
-prom/alertmanager-linux-adm64:v0.27.0
+prom/alertmanager-linux-adm64:0.27.0
