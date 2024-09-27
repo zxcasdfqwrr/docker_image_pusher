@@ -1,1 +1,1 @@
-grafana/grafana：10.0.9
+grafana/grafana:10.0.9
